@@ -3,4 +3,4 @@ Host: hexlet.local
 Content-Type: application/json
 Content-Length: 20
 
-{"text":"I got it!"}
+{"body":"I got it!"}
