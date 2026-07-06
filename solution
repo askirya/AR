@@ -1,6 +1,6 @@
-PATCH /comments/4 HTTP/1.1
+PATCH /comments/3 HTTP/1.1
 Host: hexlet.local
 Content-Type: application/json
 Content-Length: 20
 
-{"body":"I got it!"}
+{"text":"I got it!"}
