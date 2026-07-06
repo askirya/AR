@@ -1,5 +1,5 @@
 PATCH /comments/4 HTTP/1.1
-Host: hexlet.local:8080
+Host: hexlet.local
 Content-Type: application/json
 Content-Length: 20
 
